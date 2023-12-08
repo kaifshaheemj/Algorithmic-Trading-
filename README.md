@@ -1,4 +1,4 @@
-# Algorithmic-Trading-
+# Algorithmic-Trading
 Analyzing the stocks by using of various indicators 
 
 
@@ -21,8 +21,10 @@ If to run on VS code it should have the requirements to run
 
 ## Screenshots
 
+![Buy&Sell](https://github.com/kaifshaheemj/Algorithmic-Trading-/blob/main/Buy_&_Sell_Strategy.png?raw=true)
 ![RSI Indicator](https://github.com/kaifshaheemj/Algorithmic-Trading-/assets/107334941/edf71cb3-b499-4cfd-83fc-0c0f287cba0e)
 ![MACD](https://github.com/kaifshaheemj/Algorithmic-Trading-/blob/main/MACD.png?raw=true)
+
 ## Installations
 
 To run the Tredge algorithmic trading project, follow the steps below:
