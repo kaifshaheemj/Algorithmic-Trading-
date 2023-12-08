@@ -2,6 +2,7 @@
 Analyzing the stocks by using of various indicators 
 
 
+
 # Tredge
 
 Tredge is an algorithmic trading project designed for strategic stock market decisions. Leveraging the Relative Strength Index (RSI) and Moving Average Convergence and Divergence (MACD) indicators, Tredge provides powerful signals for optimal stock buy or sell moments. 
@@ -20,7 +21,7 @@ If to run on VS code it should have the requirements to run
 
 ## Screenshots
 
-![RSI Indicator]("https://github.com/kaifshaheemj/Algorithmic-Trading-/blob/main/RSI.png?raw=true")
+![RSI Indicator](https://github.com/kaifshaheemj/Algorithmic-Trading-/assets/107334941/edf71cb3-b499-4cfd-83fc-0c0f287cba0e)
 ![MACD](https://github.com/kaifshaheemj/Algorithmic-Trading-/blob/main/MACD.png?raw=true)
 ## Installations
 
