@@ -1,7 +1,5 @@
 # Algorithmic-Trading
-Analyzing the stocks by using of various indicators 
-
-
+Algorithmic Trading is an algorithmic trading system designed for strategic stock decisions based on Time Series Analysis. Utilizing key indicators such as Relative Strength Index (RSI) and Moving Average Convergence/Divergence (MACD), the system analyzes stock trends, providing signals for optimal buy or sell moments. Explore the power of quantitative analysis with AlgoTrading for informed and timely stock trading decisions.
 
 # Tredge
 
